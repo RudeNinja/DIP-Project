@@ -1,0 +1,13 @@
+Download Repository:
+1. Two different pipelines have been created:
+  1. Baseline: baseline.ipynb and baseline_face.ipynb
+  2. LIC.ipynb
+  Download the zip folder and click on 'Run All'. Make sure all the requirements are satisfied from requirements.txt file.
+2. Dataset:
+  1. Publicly available dataset link: http://vis-www.cs.umass.edu/lfw/
+  The download processes has been well described in the website and can be downloaded with few clicks.
+  We have used only few images from the dataset. All such images are available in inputs folder. 
+  In order to run the pipeline on image of your choice store the image in inputs folder and give its relative path to initial part of the ipynb file.
+3. Output:
+  The outputs are generated in jupyter notebooks. 
+  Outputs of every stage of pipelines are visible. They can be easily downloaded into the system using save option in notebook.
